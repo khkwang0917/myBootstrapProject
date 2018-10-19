@@ -1,10 +1,5 @@
-@media screen and (max-width: 620px) {
-
-.navbar-brand-hide { display: none; }
-
-}
-
-
+// Footer
+//---------------------------------------------------
 .footer {
     position: fixed;
     left: 0;
@@ -18,3 +13,15 @@
 .footer > p {
   margin: 0.5em 0;
 }
+//---------------------------------------------------
+
+
+
+// Media Query
+//---------------------------------------------------
+@media screen and (max-width: 620px) {
+
+  .navbar-brand-hide { display: none; }
+
+}
+//---------------------------------------------------

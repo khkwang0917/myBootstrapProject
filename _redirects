@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://peaceful-heyrovsky-8f5d6a.netlify.com/* http://www.nightkidx.online/:splat 301!
