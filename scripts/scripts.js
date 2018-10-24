@@ -4,5 +4,4 @@ $( document ).ready(function() {
   $('#galleries').carousel({
     interval: 200
   })
-
 });
