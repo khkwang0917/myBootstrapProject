@@ -23,3 +23,12 @@
   .navbar-brand-hide { display: none; }
 }
 /*-----------------------------------------------*/
+
+
+#toTop{
+	position: fixed;
+	bottom: 60px;
+	right: 10px;
+	cursor: pointer;
+	display: none;
+}
